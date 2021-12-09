@@ -1,0 +1,6 @@
+0.12.1
+pypi(jinja2)
+pypi(kubernetes)
+pypi(python_string_utils)
+pypi(ruamel.yaml)
+pypi(six)
