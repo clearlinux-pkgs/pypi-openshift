@@ -4,7 +4,7 @@
 #
 Name     : pypi-openshift
 Version  : 0.13.1
-Release  : 13
+Release  : 14
 URL      : https://files.pythonhosted.org/packages/97/c0/d8e2aae7b4e8f3709eca4fd8c2f70ea3c66151d1a5259e9a7e1ee2497608/openshift-0.13.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/97/c0/d8e2aae7b4e8f3709eca4fd8c2f70ea3c66151d1a5259e9a7e1ee2497608/openshift-0.13.1.tar.gz
 Summary  : OpenShift python client
